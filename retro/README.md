@@ -1,4 +1,8 @@
 
+Install Z80 assembler:
+```
+sudo apt install z80asm
+```
 
 Use 'make' to assemble the BIOS:
 ```
